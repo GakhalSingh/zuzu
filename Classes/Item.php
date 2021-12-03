@@ -1,6 +1,4 @@
 <?php
-
-
 class Item
 {
     public $id;
